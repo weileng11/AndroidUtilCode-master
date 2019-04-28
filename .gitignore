@@ -1,0 +1,11 @@
+*.iml
+*__bus__.json
+.gradle
+/local.properties
+.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+/apk
+/maven
